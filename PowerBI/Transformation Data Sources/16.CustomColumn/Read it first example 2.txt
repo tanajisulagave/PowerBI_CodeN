@@ -1,0 +1,9 @@
+connect SQL server and use this query in advance 
+
+select isnull(Title,'NA')as Title,FirstName,LastName,Cast (ModifiedDate as Date) as Date from Person.Person
+
+
+same we will perform in Power BI  using Replace value and Data typr change 
+
+select Title , FirstName,LastName,ModifiedDate 
+from Person.Person

@@ -1,0 +1,4 @@
+connect SQL server 
+
+and fetch factinternetsales table in Adventure works DW database.
+select  * from [dbo].[FactInternetSales]

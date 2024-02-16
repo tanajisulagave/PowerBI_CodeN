@@ -1,0 +1,226 @@
+ProductCategory,ProductSubCategory,ProductName,Color,OrderQuantity,TotalProductCost,SalesAmount,TaxAmt,Freight
+Clothing,Shorts,"Women's Mountain Shorts, S",Black,1,26.1763,69.99,5.5992,1.7498
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Clothing,Shorts,"Women's Mountain Shorts, L",Black,1,26.1763,69.99,5.5992,1.7498
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",Multi,1,38.4923,49.99,3.9992,1.2498
+Clothing,Vests,"Classic Vest, M",Blue,1,23.749,63.50,5.08,1.5875
+Clothing,Shorts,"Women's Mountain Shorts, L",Black,1,26.1763,69.99,5.5992,1.7498
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",Multi,1,38.4923,49.99,3.9992,1.2498
+Clothing,Gloves,"Half-Finger Gloves, L",Black,1,9.1593,24.49,1.9592,0.6123
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Blue",Blue,1,13.0863,34.99,2.7992,0.8748
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Accessories,Tires and Tubes,ML Mountain Tire,NA,1,11.2163,29.99,2.3992,0.7498
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Tires and Tubes,LL Mountain Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Accessories,Tires and Tubes,Touring Tire,NA,1,10.8423,28.99,2.3192,0.7248
+Accessories,Tires and Tubes,Touring Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Accessories,Tires and Tubes,Touring Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,Touring Tire,NA,1,10.8423,28.99,2.3192,0.7248
+Accessories,Hydration Packs,Hydration Pack - 70 oz.,Silver,1,20.5663,54.99,4.3992,1.3748
+Accessories,Tires and Tubes,Touring Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Accessories,Tires and Tubes,Touring Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Accessories,Tires and Tubes,HL Mountain Tire,NA,1,13.09,35.00,2.80,0.875
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Accessories,Tires and Tubes,HL Mountain Tire,NA,1,13.09,35.00,2.80,0.875
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Bikes,Mountain Bikes,"Mountain-500 Silver, 52",Silver,1,308.2179,564.99,45.1992,14.1248
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL",Yellow,1,41.5723,53.99,4.3192,1.3498
+Bikes,Mountain Bikes,"Mountain-200 Silver, 42",Silver,1,1265.6195,2319.99,185.5992,57.9998
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Hydration Packs,Hydration Pack - 70 oz.,Silver,1,20.5663,54.99,4.3992,1.3748
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Bikes,Mountain Bikes,"Mountain-200 Black, 46",Black,1,1251.9813,2294.99,183.5992,57.3748
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Bikes,Mountain Bikes,"Mountain-200 Black, 42",Black,1,1251.9813,2294.99,183.5992,57.3748
+Accessories,Tires and Tubes,HL Mountain Tire,NA,1,13.09,35.00,2.80,0.875
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Bikes,Touring Bikes,"Touring-3000 Blue, 44",Blue,1,461.4448,742.35,59.388,18.5588
+Bikes,Touring Bikes,"Touring-3000 Blue, 50",Blue,1,461.4448,742.35,59.388,18.5588
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, XL",Multi,1,38.4923,49.99,3.9992,1.2498
+Bikes,Touring Bikes,"Touring-3000 Blue, 50",Blue,1,461.4448,742.35,59.388,18.5588
+Bikes,Mountain Bikes,"Mountain-200 Black, 38",Black,1,1251.9813,2294.99,183.5992,57.3748
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Bikes,Road Bikes,"Road-250 Red, 58",Red,1,1554.9479,2443.35,195.468,61.0838
+Accessories,Tires and Tubes,HL Road Tire,NA,1,12.1924,32.60,2.608,0.815
+Bikes,Road Bikes,"Road-250 Black, 44",Black,1,1554.9479,2443.35,195.468,61.0838
+Accessories,Helmets,"Sport-100 Helmet, Blue",Blue,1,13.0863,34.99,2.7992,0.8748
+Bikes,Road Bikes,"Road-350-W Yellow, 44",Yellow,1,1082.51,1700.99,136.0792,42.5248
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Tires and Tubes,ML Road Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Bikes,Road Bikes,"Road-350-W Yellow, 48",Yellow,1,1082.51,1700.99,136.0792,42.5248
+Accessories,Helmets,"Sport-100 Helmet, Blue",Blue,1,13.0863,34.99,2.7992,0.8748
+Bikes,Road Bikes,"Road-550-W Yellow, 48",Yellow,1,713.0798,1120.49,89.6392,28.0123
+Accessories,Tires and Tubes,ML Road Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Bikes,Road Bikes,"Road-750 Black, 58",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Tires and Tubes,LL Road Tire,NA,1,8.0373,21.49,1.7192,0.5373
+Bikes,Road Bikes,"Road-550-W Yellow, 44",Yellow,1,713.0798,1120.49,89.6392,28.0123
+Bikes,Road Bikes,"Road-550-W Yellow, 42",Yellow,1,713.0798,1120.49,89.6392,28.0123
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL",Yellow,1,41.5723,53.99,4.3192,1.3498
+Bikes,Mountain Bikes,"Mountain-200 Black, 46",Black,1,1251.9813,2294.99,183.5992,57.3748
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Bikes,Mountain Bikes,"Mountain-400-W Silver, 42",Silver,1,419.7784,769.49,61.5592,19.2373
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Bikes,Mountain Bikes,"Mountain-200 Silver, 46",Silver,1,1265.6195,2319.99,185.5992,57.9998
+Bikes,Touring Bikes,"Touring-1000 Blue, 60",Blue,1,1481.9379,2384.07,190.7256,59.6018
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Bikes,Touring Bikes,"Touring-3000 Blue, 50",Blue,1,461.4448,742.35,59.388,18.5588
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Bikes,Touring Bikes,"Touring-3000 Blue, 50",Blue,1,461.4448,742.35,59.388,18.5588
+Accessories,Helmets,"Sport-100 Helmet, Blue",Blue,1,13.0863,34.99,2.7992,0.8748
+Bikes,Touring Bikes,"Touring-1000 Yellow, 46",Yellow,1,1481.9379,2384.07,190.7256,59.6018
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Bikes,Touring Bikes,"Touring-1000 Yellow, 50",Yellow,1,1481.9379,2384.07,190.7256,59.6018
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",Multi,1,38.4923,49.99,3.9992,1.2498
+Bikes,Road Bikes,"Road-750 Black, 48",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Helmets,"Sport-100 Helmet, Blue",Blue,1,13.0863,34.99,2.7992,0.8748
+Bikes,Road Bikes,"Road-750 Black, 58",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Bikes,Road Bikes,"Road-750 Black, 58",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Hydration Packs,Hydration Pack - 70 oz.,Silver,1,20.5663,54.99,4.3992,1.3748
+Bikes,Road Bikes,"Road-750 Black, 44",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Bikes,Road Bikes,"Road-750 Black, 44",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Tires and Tubes,LL Road Tire,NA,1,8.0373,21.49,1.7192,0.5373
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Bikes,Road Bikes,"Road-550-W Yellow, 44",Yellow,1,713.0798,1120.49,89.6392,28.0123
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",Multi,1,38.4923,49.99,3.9992,1.2498
+Bikes,Road Bikes,"Road-550-W Yellow, 38",Yellow,1,713.0798,1120.49,89.6392,28.0123
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL",Yellow,1,41.5723,53.99,4.3192,1.3498
+Bikes,Road Bikes,"Road-350-W Yellow, 40",Yellow,1,1082.51,1700.99,136.0792,42.5248
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Bikes,Road Bikes,"Road-350-W Yellow, 44",Yellow,1,1082.51,1700.99,136.0792,42.5248
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",Multi,1,38.4923,49.99,3.9992,1.2498
+Bikes,Touring Bikes,"Touring-1000 Yellow, 50",Yellow,1,1481.9379,2384.07,190.7256,59.6018
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Bikes,Touring Bikes,"Touring-3000 Blue, 62",Blue,1,461.4448,742.35,59.388,18.5588
+Bikes,Road Bikes,"Road-750 Black, 52",Black,1,343.6496,539.99,43.1992,13.4998
+Accessories,Bottles and Cages,Road Bottle Cage,NA,1,3.3623,8.99,0.7192,0.2248
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,LL Mountain Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Clothing,Gloves,"Half-Finger Gloves, L",Black,1,9.1593,24.49,1.9592,0.6123
+Accessories,Tires and Tubes,ML Road Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Tires and Tubes,ML Road Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Accessories,Tires and Tubes,Touring Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Bikes,Mountain Bikes,"Mountain-200 Black, 42",Black,1,1251.9813,2294.99,183.5992,57.3748
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Cleaners,Bike Wash - Dissolver,NA,1,2.9733,7.95,0.636,0.1988
+Bikes,Mountain Bikes,"Mountain-400-W Silver, 40",Silver,1,419.7784,769.49,61.5592,19.2373
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, L",Multi,1,38.4923,49.99,3.9992,1.2498
+Bikes,Mountain Bikes,"Mountain-400-W Silver, 38",Silver,1,419.7784,769.49,61.5592,19.2373
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,ML Mountain Tire,NA,1,11.2163,29.99,2.3992,0.7498
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Bikes,Mountain Bikes,"Mountain-200 Black, 46",Black,1,1251.9813,2294.99,183.5992,57.3748
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Hydration Packs,Hydration Pack - 70 oz.,Silver,1,20.5663,54.99,4.3992,1.3748
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL",Yellow,1,41.5723,53.99,4.3192,1.3498
+Clothing,Gloves,"Half-Finger Gloves, L",Black,1,9.1593,24.49,1.9592,0.6123
+Bikes,Mountain Bikes,"Mountain-200 Silver, 38",Silver,1,1265.6195,2319.99,185.5992,57.9998
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Bikes,Mountain Bikes,"Mountain-200 Silver, 38",Silver,1,1265.6195,2319.99,185.5992,57.9998
+Accessories,Bike Racks,Hitch Rack - 4-Bike,NA,1,44.88,120.00,9.60,3.00
+Bikes,Mountain Bikes,"Mountain-200 Black, 42",Black,1,1251.9813,2294.99,183.5992,57.3748
+Bikes,Mountain Bikes,"Mountain-200 Silver, 38",Silver,1,1265.6195,2319.99,185.5992,57.9998
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Bikes,Mountain Bikes,"Mountain-200 Silver, 46",Silver,1,1265.6195,2319.99,185.5992,57.9998
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Bikes,Mountain Bikes,"Mountain-500 Silver, 44",Silver,1,308.2179,564.99,45.1992,14.1248
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, S",Yellow,1,41.5723,53.99,4.3192,1.3498
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, XL",Multi,1,38.4923,49.99,3.9992,1.2498
+Accessories,Tires and Tubes,Touring Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Tires and Tubes,LL Road Tire,NA,1,8.0373,21.49,1.7192,0.5373
+Accessories,Tires and Tubes,Road Tire Tube,NA,1,1.4923,3.99,0.3192,0.0998
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,LL Mountain Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Accessories,Tires and Tubes,LL Mountain Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Patch Kit/8 Patches,NA,1,0.8565,2.29,0.1832,0.0573
+Accessories,Tires and Tubes,LL Mountain Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Blue",Blue,1,13.0863,34.99,2.7992,0.8748
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, S",Multi,1,38.4923,49.99,3.9992,1.2498
+Clothing,Caps,AWC Logo Cap,Multi,1,6.9223,8.99,0.7192,0.2248
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,LL Mountain Tire,NA,1,9.3463,24.99,1.9992,0.6248
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, M",Yellow,1,41.5723,53.99,4.3192,1.3498
+Accessories,Tires and Tubes,ML Mountain Tire,NA,1,11.2163,29.99,2.3992,0.7498
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,ML Mountain Tire,NA,1,11.2163,29.99,2.3992,0.7498
+Accessories,Hydration Packs,Hydration Pack - 70 oz.,Silver,1,20.5663,54.99,4.3992,1.3748
+Accessories,Tires and Tubes,ML Mountain Tire,NA,1,11.2163,29.99,2.3992,0.7498
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Tires and Tubes,ML Mountain Tire,NA,1,11.2163,29.99,2.3992,0.7498
+Accessories,Tires and Tubes,Mountain Tire Tube,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Red",Red,1,13.0863,34.99,2.7992,0.8748
+Clothing,Gloves,"Half-Finger Gloves, S",Black,1,9.1593,24.49,1.9592,0.6123
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Bottles and Cages,Mountain Bottle Cage,NA,1,3.7363,9.99,0.7992,0.2498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Clothing,Vests,"Classic Vest, M",Blue,1,23.749,63.50,5.08,1.5875
+Clothing,Shorts,"Women's Mountain Shorts, M",Black,1,26.1763,69.99,5.5992,1.7498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Helmets,"Sport-100 Helmet, Black",Black,1,13.0863,34.99,2.7992,0.8748
+Clothing,Shorts,"Women's Mountain Shorts, S",Black,1,26.1763,69.99,5.5992,1.7498
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, L",Multi,1,38.4923,49.99,3.9992,1.2498
+Accessories,Bottles and Cages,Water Bottle - 30 oz.,NA,1,1.8663,4.99,0.3992,0.1248
+Accessories,Fenders,Fender Set - Mountain,NA,1,8.2205,21.98,1.7584,0.5495
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",Multi,1,38.4923,49.99,3.9992,1.2498
+Clothing,Socks,"Racing Socks, L",White,1,3.3623,8.99,0.7192,0.2248

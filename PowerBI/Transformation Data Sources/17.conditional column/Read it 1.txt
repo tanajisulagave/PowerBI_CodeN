@@ -1,0 +1,5 @@
+use Adventure work DW database 
+
+and use below query
+
+select * from DimCustomer

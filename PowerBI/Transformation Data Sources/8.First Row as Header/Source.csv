@@ -1,0 +1,54 @@
+Country,State,YearlyIncome,SalesAmount
+Australia,New South Wales,389660000.00,3934485.7265
+Australia,Queensland,192670000.00,1988415.0297
+Australia,South Australia,58220000.00,618255.8616
+Australia,Tasmania,25980000.00,239937.9033
+Australia,Victoria,217420000.00,2279906.0633
+Canada,Alberta,1780000.00,22467.8025
+Canada,British Columbia,456180000.00,1955340.0996
+Canada,Ontario,120000.00,36.96
+France,Charente-Maritime,3320000.00,34441.7349
+France,Essonne,21470000.00,279297.1838
+France,Garonne (Haute),3470000.00,54641.7232
+France,Hauts de Seine,22700000.00,263416.1854
+France,Loir et Cher,2620000.00,21473.7396
+France,Loiret,6100000.00,91562.9056
+France,Moselle,10120000.00,94046.2295
+France,Nord,33190000.00,391400.2014
+France,Pas de Calais,1200000.00,11342.9225
+France,Seine (Paris),44470000.00,539725.80
+France,Seine et Marne,8300000.00,109735.2384
+France,Seine Saint Denis,33930000.00,379479.7479
+France,Somme,2400000.00,29555.2814
+France,Val de Marne,2860000.00,28478.1246
+France,Val d'Oise,6090000.00,46755.9003
+France,Yveline,17780000.00,268664.7958
+Germany,Bayern,34330000.00,399966.7822
+Germany,Brandenburg,4220000.00,57919.2085
+Germany,Hamburg,44130000.00,479125.8713
+Germany,Hessen,55850000.00,662103.2968
+Germany,Nordrhein-Westfalen,56560000.00,566114.2722
+Germany,Saarland,72160000.00,729082.9072
+United Kingdom,England,387700000.00,3391712.2109
+United States,Alabama,80000.00,37.29
+United States,Arizona,80000.00,2104.0196
+United States,California,836070000.00,5714257.6926
+United States,Florida,690000.00,7760.9096
+United States,Georgia,380000.00,1658.92
+United States,Illinois,600000.00,2828.0896
+United States,Kentucky,350000.00,216.96
+United States,Massachusetts,60000.00,2049.0982
+United States,Minnesota,240000.00,91.28
+United States,Mississippi,80000.00,82.59
+United States,Missouri,240000.00,81.46
+United States,Montana,270000.00,92.08
+United States,New York,480000.00,4124.19
+United States,North Carolina,80000.00,7.28
+United States,Ohio,810000.00,359.18
+United States,Oregon,172800000.00,1170991.5397
+United States,South Carolina,880000.00,2434.92
+United States,Texas,780000.00,1789.10
+United States,Utah,360000.00,4419.58
+United States,Virginia,80000.00,39.98
+United States,Washington,373850000.00,2467248.3415
+United States,Wyoming,410000.00,7115.01
