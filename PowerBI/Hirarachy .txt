@@ -1,0 +1,17 @@
+SELECT  fact.OrderDate,
+Cat.[EnglishProductCategoryName] AS ProductCategory, 
+       SubCat.[EnglishProductSubcategoryName] AS ProductSubCategory, 
+       Prod.EnglishProductName AS ProductName, 
+       Prod.Color, 
+       Fact.OrderQuantity, 
+       Fact.TotalProductCost, 
+       Fact.SalesAmount, 
+       Fact.TaxAmt, 
+       Fact.[Freight]
+FROM FactInternetSales AS Fact
+   INNER JOIN DimProduct AS Prod
+      ON Fact.ProductKey = Prod.ProductKey
+   INNER JOIN DimProductSubcategory AS SubCat
+      ON Prod.ProductSubcategoryKey = SubCat.ProductSubcategoryKey 
+   INNER JOIN DimProductCategory AS Cat 
+      ON SubCat.ProductCategoryKey = Cat.ProductCategoryKey
